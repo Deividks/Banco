@@ -4,6 +4,5 @@ public class Main {
         Banco meu_banco = new Banco();
         meu_banco.Nome = "Banco do Brasil";
         
-
     }
 }
