@@ -14,6 +14,6 @@ public class Main {
         conta1.saldo = 1500;
         conta1.verificar_saldo();
 
-        
+        sc.close();
     }
 }
